@@ -1,1 +1,4 @@
-print("Hello, daehyun-Kim")
+def hello():
+    print("hello, daehyun-Kim")
+
+hello()
